@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "sqlite_db_DxO_Revenues_Magento_Empilement": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "mcp-alchemy",
+        "mcp-alchemy"
+      ],
+      "env": {
+        "DB_URL": "sqlite:////Users/acalvi/Repositories/DxO-MCP-SQL-BI-INSTALLER/data/DxO_Revenues_Magento_Empilement.db"
+      }
+    }
+  }
+}

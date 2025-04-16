@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Data files
+*.csv
+*.xlsx
+
+# Database files
+*.db
+sql_db/*.db # Be specific about the output location if desired
+
+# Output directory (optional, if you want to ignore the whole dir)
+# output/ 

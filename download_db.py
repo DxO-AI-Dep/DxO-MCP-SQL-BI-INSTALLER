@@ -18,7 +18,6 @@ logging.basicConfig(
 # --- Configuration ---
 # PASTE YOUR GOOGLE DRIVE SHAREABLE LINK HERE
 # Make sure the link sharing is set to "Anyone with the link"
-# GOOGLE_DRIVE_URL = "https://drive.google.com/file/d/12k2hLxVDriNTj3CnASmzfjc3p8q01msz/view?usp=share_link" # Removed hardcoded URL
 
 # Define the name you want for the downloaded database file
 OUTPUT_FILENAME = "DxO_Revenues_Magento_Empilement.db"
